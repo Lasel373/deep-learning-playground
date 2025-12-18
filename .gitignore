@@ -1,0 +1,5 @@
+#for datasets and models
+*.pth
+data/
+
+*.gz
